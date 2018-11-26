@@ -1,0 +1,13 @@
+.titleBar{
+  background-color: #000;
+  display: block;
+  color: #fff;
+  padding-left: 16px;
+}
+
+.inputSearch{
+  font-size: 24;
+  display: block;
+  width: 99%;
+  padding: 8px 0px 8px 16px;
+}
